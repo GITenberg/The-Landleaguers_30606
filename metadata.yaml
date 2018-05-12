@@ -21,6 +21,8 @@ description: The Landleaguers, Trollope's last novel, is set in Ireland during t
   takes the form of an intriguingly uncharacteristic sub-plot, in which a young American
   woman travels to London and tries to make a name for herself on the operatic stage,
   while her father becomes a landleaguing Member of Parliament.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30606#The-Landleaguers
 gutenberg_issued: '2009-12-04'
 gutenberg_type: Text
 identifiers:
