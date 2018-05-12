@@ -1,0 +1,39 @@
+_repo: The-Landleaguers_30606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: The Landleaguers, Trollope's last novel, is set in Ireland during the
+  Land War of the early 1880s. It is both a documentary record, closely following
+  events in Westminster and the Irish countryside, and a meditative fantasy. A landlord's
+  son is murdered by rural terrorists, a crime that replays the real-life assassination
+  of Lord Frederic Cavendish in Dublin in 1882, and the novel traces the violent disruption
+  of civil life as tenants, organized in the Land League, plot to force their landlords
+  to give them a better deal. But part of Trollope's imaginative response to the crisis
+  takes the form of an intriguingly uncharacteristic sub-plot, in which a young American
+  woman travels to London and tries to make a name for herself on the operatic stage,
+  while her father becomes a landleaguing Member of Parliament.
+gutenberg_issued: '2009-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Land League (Ireland) -- Fiction'
+- !lcsh 'Land tenure -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+title: The Landleaguers
+url: http://www.gutenberg.org/ebooks/30606
